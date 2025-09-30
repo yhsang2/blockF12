@@ -1,5 +1,5 @@
 !function() {
-     // Detect Key Shortcuts f12 및 특수키 조합 막기
+     // Prevent Detect Key Shortcuts f12 and Special Key Combinations
      window.addEventListener('keydown', function(e) {
          if (
              // CMD + Alt + I (Chrome, Firefox, Safari)
@@ -27,14 +27,14 @@
          }
      });
 
-     //개발자도구 실행 감지.
+     //Developer tool execution detection
      console.log(Object.defineProperties(new Error, {
          toString: {value() {(new Error).stack.includes('toString@') && alert('Safari devtools')}},
          message: {
              get() {
-                 //개발자도구를 감지하면 그냥 홬 로갓 키겨 버리자.
-                 alert('개발자 도구(F12)는 사용하실 수 없습니다.');
-                 document.location.href="https://naver.com/"
+                 //alert('개발자 도구(F12)는 사용하실 수 없습니다.');
+                 alert('You cannot use the developer tool (F12).');
+                 //document.location.href="https://naver.com/"
            }
          },
      }));
