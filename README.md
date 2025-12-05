@@ -55,5 +55,6 @@ Include the script directly in your webpage:
 
 ## 📄 License & Buy me a Coffee
 
-This project is licensed under the **MIT License**. @yhsang2
+This project is licensed under the **MIT License**.
+
 https://buymeacoffee.com/yhsang2
