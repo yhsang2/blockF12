@@ -56,7 +56,7 @@ Include the script directly in your webpage:
 ## ☕ Support
 
 If this project helped you,  
-you can **buy me a coffee** and support my work:
+you can **buy me a coffee** and support my work :)
 
 👉 **https://buymeacoffee.com/yhsang2**
 
