@@ -55,4 +55,4 @@ Include the script directly in your webpage:
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**. @yhsang2
