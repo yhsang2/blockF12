@@ -66,4 +66,4 @@ Thank you! 🙌
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**. @yhsang2
