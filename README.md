@@ -53,6 +53,7 @@ Include the script directly in your webpage:
 
 ---
 
-## 📄 License
+## 📄 License & Buy me a Coffee
 
 This project is licensed under the **MIT License**. @yhsang2
+https://buymeacoffee.com/yhsang2
